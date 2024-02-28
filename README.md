@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harishankar R</h1>
+<h1 align="center">Hi , I'm Harishankar R</h1>
 <h3 align="center">AI Enthusiast Exploring the Depths of Data</h3>
 
 - 🌱 I’m currently learning **Tensorflow**
